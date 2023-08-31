@@ -33,3 +33,49 @@ O Git é instalado a partir de seu site oficial, e seu acesso e funcionamento oc
 
 ## Dicas de Markdown  
 O site [Markdown Guide](https://www.markdownguide.org/ "Markdown Guide Site") é um recurso online que explica   basicamente tudo a respeito do Markdown e como utilizá-lo ao máximo.
+
+
+# **HTML**
+O HTML é uma linguagem usada para estruturar e apresentar conteúdo na internet. Ele utiliza "tags" para definir elementos como cabeçalhos, parágrafos, links e imagens em uma página web. Essas tags são interpretadas pelos navegadores para renderizar o conteúdo de maneira adequada aos usuários.
+
+## Tags HTML Essenciais
+- **`<html>`**: Define o início do documento HTML.
+- **`<head>`**: Contém informações do cabeçalho do documento, como título e metadados.
+- **`<title>`**: Define o título da página exibido na guia do navegador.
+- **`<meta>`**: Fornece metadados sobre o documento, como descrição e palavras-chave.
+- **`<link>`**: Liga o documento a recursos externos, como CSS.
+- **`<script>`**: Usado para incorporar scripts de JavaScript na página.
+- **`<style>`**: Contém estilos CSS para aplicar ao documento.
+- **`<body>`**: Define o conteúdo principal do documento exibido no navegador.
+- **`<h1>`**, **`<h2>`**, ..., **`<h6>`**: Cabeçalhos de diferentes níveis, usados para títulos.
+- **`<p>`**: Define um parágrafo de texto.
+- **`<a>`**: Cria um link para outra página ou recurso.
+- **`<img>`**: Insere uma imagem na página.
+- **`<ul>`**: Cria uma lista não ordenada.
+- **`<ol>`**: Cria uma lista ordenada.
+- **`<li>`**: Define um item em uma lista.
+- **`<br>`**: Insere uma quebra de linha.
+- **`<hr>`**: Insere uma linha horizontal.
+- **`<table>`**: Cria uma tabela.
+- **`<tr>`**: Define uma linha em uma tabela.
+- **`<td>`**: Define uma célula em uma tabela.
+
+
+## Tags Semânticas
+Para que uma página não só apresente maior legibilidade para outros desenvolvedores como também seja melhor posicionada nos mecanismos de busca, é altamente recomendado o uso de **tags semânticas**. As tags semânticas não possuem propriedades inerentes que alterem a página, o emprego desse tipo de tag visa apenas dividir o código e discriminar os elementos de acordo com seu papel na estrutura da página. A seguir, temos uma lista das principais tags semânticas:
+
+- **`<nav>`**: Define a área de navegação da página.
+- **`<main>`**: Define o conteúdo principal da página.
+- **`<article>`**: Define um conteúdo independente do resto.
+- **`<section>`**: Define uma seção genérica em um documento.
+- **`<aside>`**: Define conteúdo secundário, como barras laterais.
+- **`<footer>`**: Define o rodapé da página ou seção.
+- **`<figure>`**: Define um conteúdo multimídia, como imagens.
+- **`<figcaption>`**: Define a legenda para elementos em `<figure>`.
+- **`<time>`**: Define datas ou horários significativos.
+- **`<mark>`**: Destaca texto com fins de referência.
+- **`<blockquote>`**: Define uma citação longa em bloco.
+- **`<q>`**: Define uma citação curta embutida.
+- **`<abbr>`**: Define uma abreviação ou acrônimo.
+- **`<cite>`**: Define o título de uma obra citada.
+- **`<address>`**: Define informações de contato.
